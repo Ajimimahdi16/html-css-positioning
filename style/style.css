@@ -6,3 +6,38 @@
     box-sizing: border-box;
  }
  
+header{
+   font-family: Arial, Helvetica, sans-serif ;
+   
+}
+
+.container-header{
+   background-color: gray;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-ricetta{
+   background-color: white;
+}
+h1{
+    color: orange;
+    text-align: center;
+    padding-top: 45px;
+
+
+}
+
+.title{
+   background-color: blue;
+   padding-bottom: 40px;
+}
+.dolce > p {
+   padding-top: 20px ;
+}
+.dolce > h2 {
+   color: purple;
+   padding:20px 0 ;
+}
+.button{
+   padding: 20px;
+}
